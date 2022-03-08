@@ -35,14 +35,13 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.65em;
   margin-top: .5em;
 }
 
 h3 {
+  font-size: 1.75em;
   font-family: 'Gabriela', serif;
-  font-size: 1.5em;
-  margin-top: .5em;
 }
 
 img {
@@ -52,7 +51,7 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: .95em;
 }
 
 a {
